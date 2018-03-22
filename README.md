@@ -1,2 +1,3 @@
 # graph
-https://stefanyr.github.io/graph/.
+https://stefanyr.github.io/graph/
+
